@@ -6,8 +6,8 @@ authors = ["Liam Diprose <liam@liamdiprose.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
-black = "^19.10b0"
+python = "^3.11"
+black = "^24.1.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.3.2"
